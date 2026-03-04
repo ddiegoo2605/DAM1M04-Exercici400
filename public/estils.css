@@ -1,0 +1,24 @@
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#matriu {
+    background-image: url(/media/basilica.png);
+    border: 3px solid;
+    height: 300px;
+    width: 200px;
+    
+
+
+}
+.box{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.final{
+    border: 3px solid;
+    border-radius: 20px;
+}
